@@ -100,6 +100,11 @@ h1#subtitulo{
 	font-size: 2em;
 	color:#9a9a9a;
 }
+h2#sub{
+	text-align: center;
+	font-size: 2em;
+	color:#9a9a9a
+}
 
 div.autores{
 	margin-left: 16%;
@@ -125,6 +130,30 @@ div.autor{
 	border-radius: 50%;
 }
 
+div.activity{
+	margin-left: 16%;
+	margin-right: 16%
+	margin-top: 1em;
+	font-size: 1.5em;
+	color:#cecece;  
+}
+
+div.actividad{
+	border-style: solid;
+	display: inline-block;
+	height: 500px;
+	width: 70%;
+    margin: 1em;
+    padding: 2% 4%;
+    text-align: center;
+    border-radius: 20px;
+    word-break: break-all;
+}
+
+.actividad a{
+	text-decoration: none;
+	color: #cecece;
+}
 
 
 
