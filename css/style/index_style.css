@@ -95,7 +95,35 @@ div.contenedor:hover img.icon{
 	-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.6);
 }
 
+h1#subtitulo{
+	text-align: center;
+	font-size: 2em;
+	color:#9a9a9a;
+}
 
+div.autores{
+	margin-left: 16%;
+	margin-top: 1em;
+	font-size: 1.5em;
+	color:#cecece;  
+}
+
+div.autor{
+	border-style: solid;
+	display: inline-block;
+	height: auto;
+	width: 30%;
+    margin: 1em;
+    padding: 2% 4%;
+    text-align: center;
+    border-radius: 20px;
+    word-break: break-all;
+}
+
+#imgAutor{
+	max-width: 80px;
+	border-radius: 50%;
+}
 
 
 
